@@ -1,0 +1,94 @@
+.user-auth {
+    height: 100vh -80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+form {
+    max-width:400px;
+    width: 80%;
+    justify-content: center;
+    align-items: center;
+}
+
+form h1 {
+    text-align: center;
+    font-weight: 300;
+    font-size: 50px;
+}
+
+.input-form {
+    position: relative;
+    padding:15px;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+
+.fa-user {
+    position: absolute;
+    left:6%;
+    top:35%;
+    cursor:pointer;
+
+}
+
+.fa-envelope {
+    position: absolute;
+    left:6%;
+    top:35%;
+    cursor:pointer;
+}
+
+.fa-lock {
+    position: absolute;
+    left:6%;
+    top:35%;
+    cursor:pointer;
+}
+
+.fa-eye {
+    position: relative;
+    right:7%;
+    cursor:pointer;
+}
+
+.fa-eye-slash {
+    position: relative;
+    right:7%;
+    cursor:pointer;
+}
+
+.input-box {
+    width: 80%;
+    position: relative;
+    padding:12px 20px;
+    border-radius: 5px;
+    border: none;
+    background-color: rgba(250, 235, 215, 0.443);
+    color: rgb(94, 58, 4);
+    text-align: center;
+}
+
+.loginBtn {
+    position: relative;
+    margin-top:14px;
+    padding:8px 10px 8px 10px;
+    background-color: rgb(94, 58, 4);
+    color: white;
+    border-radius: 3px;
+    border-style: none;
+    cursor:pointer;
+}
+
+.link {
+    margin-left:5px;
+    color:rgb(94, 58, 4);
+}
+    .link:hover {
+        color: black;
+    }
+    .link:active {
+        color: black;
+    }

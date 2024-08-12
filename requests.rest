@@ -1,0 +1,8 @@
+POST http://localhost:3000/signup
+Content-Type: application/json
+
+{
+    "fullname": "Jeniah Clarke",
+    "email":"jeniahclarke@yahoo.com",
+    "password": "2930101"
+}
